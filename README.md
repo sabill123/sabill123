@@ -1,5 +1,5 @@
 <h1 align="center">大家好，我是 韓材釋</h1>
-<h3 align="center">Soongsil大学（韩国的），Mathmatic & A.I.(DL) & Semi-Conductor</h3>
+<h3 align="center">Soongsil大学（韩国的），Mathmatics & A.I.(DL) & Semi-Conductor</h3>
 <h3 align="left">💬Connect with me : dwoon@outlook.kr</h3>
 <p align="left">
 </p>
