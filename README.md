@@ -5,7 +5,7 @@
 <div align=center>
   
 <h3>da jia hao, wo shi han cai shi</h3>
-<h4>:purple_heart: I am a student majoring in software department. :) :purple_heart:</h4>
+<h4>:purple_heart: I am a student majoring in Mathmatics & A.I (DL), Semi-Conductor. :) :purple_heart:</h4>
 
 
   
