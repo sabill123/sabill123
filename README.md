@@ -89,10 +89,4 @@
     - [서버 배포하기-2](https://velog.io/@yewo2nn16/SpringBoot-서버-배포-인텔리제이에서-jar-파일-빌드해서-배포하기)
 
 
-<br />
 
-## 💁‍♂️ 프로젝트 팀원
-|Backend|Frontend|
-|:---:|:---:|
-| ![](https://github.com/yewon-Noh.png?size=120) | ![](https://github.com/SeongHo-C.png?size=120) |
-|[노예원](https://github.com/yewon-Noh)|[이성호](https://github.com/SeongHo-C)|
