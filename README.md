@@ -34,6 +34,7 @@ Forward Deployed Engineer @ Letsur (AX팀)
 | [ANNA](https://github.com/sabill123/ai-researcher) | Researcher·Engineer·Judge 3개 에이전트가 논문 탐색, 코드 수정, 결과 분석을 반복하는 자율 ML 실험 시스템. 위험한 실험은 승인 게이트를 거침 | Python, Claude Code CLI |
 | [Debut](https://github.com/sabill123/debut) | 유닛 이름과 콘셉트를 넣으면 멀티에이전트가 멤버 기획부터 비주얼, MV 시나리오, BGM, 32초 MV 티저까지 제작 | Next.js, FastAPI, Gemini, Veo |
 | [Make Shorts](https://github.com/sabill123/shorts-generator) | 키워드 하나로 시나리오, 이미지, 나레이션, 자막을 거쳐 MP4 숏폼을 생성. 긴 영상 하이라이트 추출과 타임라인 편집기 포함 | React, FastAPI, Remotion |
+| [Deplight](https://github.com/Softbank-mango/deplight-platform) | SoftBank Hackathon 2025 2위 팀 프로젝트. GitHub Actions와 Terraform으로 AWS ECS 블루/그린 배포, AI 분석기가 PR에 배포 설정을 제안 | Python, Terraform, AWS |
 | [NPU 스마트 보안 솔루션](https://github.com/sabill123/Smart_Security_Solution-) | Furiosa NPU에서 실시간 얼굴 탐지·비식별화, 특정 인물은 제외 | Python, YOLOv5, SAM |
 
 ## 수상·자격
